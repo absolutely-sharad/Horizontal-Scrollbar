@@ -38,7 +38,7 @@ export default App;
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-```
+```jsx
 <ScrollBar/>
 import React, { useRef } from 'react';
 import styles from './Horizontal_ScrollBar.module.css';
