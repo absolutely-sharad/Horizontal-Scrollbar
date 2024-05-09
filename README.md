@@ -36,8 +36,11 @@ function App() {
 export default App;
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<ScrollBar/>
+
+
 ```
+<ScrollBar/>
+
 import React, { useRef } from 'react';
 import styles from './Horizontal_ScrollBar.module.css';
 
@@ -75,6 +78,7 @@ export default function ScrollBar() {
     );
 }
 ```
+
 #### Getting Started
 - To run the project locally:
 
