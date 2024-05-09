@@ -37,3 +37,39 @@ function App() {
 }
 
 export default App;
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<App/>
+```
+import Notes from './NotesSaver';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <h1> NOTES SAVER </h1>
+      <Notes/>
+    </div>
+  );
+}
+
+export default App;
+
+```
+
+
+#### Getting Started
+- To run the project locally:
+
+#### Clone this repository to your local machine.
+- Install dependencies using npm install.
+- Start the development server using npm start.
+- Access the application in your browser at http://localhost:3000.
+
+#### Technologies Used
+- React
+- jsPDF
+- CSS Modules
+
+### Author
+[Sharad Singh Kushwaha]
