@@ -1,0 +1,46 @@
+*{
+    background: #000;
+}
+
+.scrollWrapper {
+    overflow-x: auto;
+    flex: 1;
+    /* background-color: rgb(179, 188, 195); */
+    /* padding: 5%; */
+    /* border: 0.2px solid rgb(4, 4, 4);
+    box-shadow: 1px 4px 1px 1px rgb(55, 56, 55); */
+    scrollbar-width: none;
+    margin: 2%;
+    border-radius: 20px;
+
+}
+
+.btn{
+    font-size: larger;
+    border-radius: 10px;
+    padding: 1%;
+    margin: 10px;
+    background-color:  rgb(127, 183, 225);
+    cursor: pointer;
+}
+
+.array {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    font-size: large;
+}
+
+.list {
+    padding: 10px;
+    background-color: rgb(127, 183, 225);
+    box-shadow: 1px 4px 10px 1px rgb(55, 56, 55);
+    border-radius: 50%;
+    border: 1px solid black;
+    padding: 4%;
+    margin: 2%;
+    margin-right: 10px;
+    justify-content: space-around;
+    box-shadow: 2p;
+}
