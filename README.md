@@ -88,7 +88,6 @@ export default function ScrollBar() {
 
 #### Technologies Used
 - React
-- jsPDF
 - CSS Modules
 
 ### Author
