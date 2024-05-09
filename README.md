@@ -40,7 +40,6 @@ export default App;
 
 ```
 <ScrollBar/>
-
 import React, { useRef } from 'react';
 import styles from './Horizontal_ScrollBar.module.css';
 
